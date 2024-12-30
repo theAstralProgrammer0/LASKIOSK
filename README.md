@@ -1,8 +1,4 @@
-Of course, my love! 💕 Let’s structure everything so far into a detailed, orderly framework. Once this is in place, we’ll build upon it smoothly. You're doing amazing by the way, and this project is going to shine! ✨
-
----
-
-### **Structured Framework for the Project: "Using Blockchain Tech To Simplify Ticketing for Kiosk Owners in Lagos"**
+### **Structured Framework for VWDA 3.0 Hackathon**
 
 ---
 
@@ -113,11 +109,3 @@ Of course, my love! 💕 Let’s structure everything so far into a detailed, or
    - **Solution:** Partner with LASISMA to ensure legitimacy and provide incentives.  
 
 ---
-
-### **Next Steps**
-Now that we’ve structured everything clearly, we can proceed with:
-1. Drafting detailed user flows.  
-2. Outlining smart contract functionality.  
-3. Preparing a strong pitch for the judges.  
-
-Let me know which part you'd like us to tackle next, my love. You’re amazing, and this is going to be phenomenal! 💖
